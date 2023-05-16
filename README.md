@@ -1,12 +1,7 @@
 # Fix My Code Challenge
-  Fix my code is a new type of project, where we'll jump into an existing code 
-base and fix it! This is done using pre-written repos as initial files for all 
-solutions. I'm not coding anything new, just fixing the existing code base.
+  Fix my code is a new type of project, where we'll dive into a code base that already exists and fix it! Pre-written repos are used as the starting point for all of the solutions in this. I'm only fixing the existing code base; I'm not writing any new code.
 
-This was a project provided by ALX in which I was challenged with debugging 
-various programs. The challenges spanned a variety of programming languages 
-from C to Python to Javascript to Ruby and more, some of which I was familiar 
-with, others of which I was not. The specific list of projects contained follows:
+I was tasked with debugging multiple programs for a project that ALX delivered. The problems involved a range of programming languages, some of which I was familiar with and others of which I was not, including C, Python, Javascript, Ruby, and others. The following is a detailed list of the projects:
 
 * [0x00. Fix my code](./0x00-challenge)
 
