@@ -11,13 +11,11 @@ with, others of which I was not. The specific list of projects contained follows
 * [0x00. Fix my code](./0x00-challenge)
 
 ## Author🖊️:
-* **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
+* **[Adeeyo Michael](https://twitter.com/ademic_code)** <[Ademic2022](https://github.com/ademic2022)>
 
 ## Acknowledgements :pray:
 
-All work contained in this project was completed as part of the curriculum for the ALX-SE programme. 
-ALX Africa is an online full-stack software engineering program that prepares students for careers 
-in the tech industry using project-based peer learning. For more information, visit 
+This project's whole body of work was produced as required reading for the ALX-SE course. ALX Africa is an online full-stack software engineering school that uses project-based peer learning to educate students for careers in the IT sector. For more information, visit 
 [this link](https://www.alxafrica.com).
 
 
